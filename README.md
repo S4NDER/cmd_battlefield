@@ -32,7 +32,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Sander Jansen* - *Initial work* - [S4NDER](https://github.com/S4NDER)
+* **Sander Jansen** - *Initial work* - [S4NDER](https://github.com/S4NDER)
 
 See also the list of [contributors](https://github.com/S4NDER/cmd_battlefield/contributors) who participated in this project.
 
