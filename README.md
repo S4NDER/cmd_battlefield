@@ -26,7 +26,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Release History
 
-* 1.0.1
+* 1.0.0
   * First commit of a working project, AI might still have a bug
 
 
