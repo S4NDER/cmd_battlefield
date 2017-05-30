@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1496092650 source:e:\bureaublad\battlefield\src\entity.cpp
+	"entity.h"
+
+1496081654 e:\bureaublad\battlefield\include\entity.h
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+	<conio.h>
+
+1496081703 source:e:\bureaublad\battlefield\src\map.cpp
+	"map.h"
+
+1496081650 e:\bureaublad\battlefield\include\map.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1494684265 source:e:\bureaublad\battlefield\src\menu.cpp
+	"menu.h"
+
+1494939096 e:\bureaublad\battlefield\include\menu.h
+
+1496081689 source:e:\bureaublad\battlefield\src\player.cpp
+	"player.h"
+
+1496081644 e:\bureaublad\battlefield\include\player.h
+	<iostream>
+
+1496081685 source:e:\bureaublad\battlefield\src\radar.cpp
+	"radar.h"
+
+1496081639 e:\bureaublad\battlefield\include\radar.h
+	"entity.h"
+
+1496081675 source:e:\bureaublad\battlefield\src\railgun.cpp
+	"railgun.h"
+
+1496081635 e:\bureaublad\battlefield\include\railgun.h
+	"entity.h"
+
+1496081671 source:e:\bureaublad\battlefield\src\soldier.cpp
+	"soldier.h"
+
+1496081631 e:\bureaublad\battlefield\include\soldier.h
+	"entity.h"
+
+1496081667 source:e:\bureaublad\battlefield\src\tank.cpp
+	"tank.h"
+
+1496081627 e:\bureaublad\battlefield\include\tank.h
+	"entity.h"
+
+1496089402 source:e:\bureaublad\battlefield\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"battlefield.h"
+
+1496081661 e:\bureaublad\battlefield\include\battlefield.h
+	<iostream>
+	<algorithm>
+	<vector>
+	"player.h"
+	"soldier.h"
+	"tank.h"
+	"radar.h"
+	"railgun.h"
+	"entity.h"
+	"map.h"
+
+1496092715 source:e:\bureaublad\battlefield\src\battlefield.cpp
+	"battlefield.h"
+
